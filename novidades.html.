@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Novidades - Crimson Pulse</title>
+    <style>
+        body { background-color: #1c1c1c; color: #f4f4f4; font-family: Arial, sans-serif; padding: 2em; }
+        a { color: #ff4d4d; text-decoration: none; }
+        .post { margin: 1em 0; padding: 1em; background-color: #2e2e2e; border-radius: 5px; }
+        .post h2 { color: #ff4d4d; }
+    </style>
+</head>
+<body>
+    <h1>Novidades de Crimson Pulse</h1>
+    <div class="post">
+        <h2>Atualização - Evento de Lançamento</h2>
+        <p>Fique por dentro do próximo evento...</p>
+        <a href="#">Saiba Mais</a>
+    </div>
+</body>
+</html>
